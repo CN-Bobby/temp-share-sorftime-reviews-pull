@@ -9,4 +9,3 @@
 - 来源：`CN-Bobby/Bobby_Skills_Group`，提交 `ef447da2b9785c8ac921350c706dd858b18794f2`。
 
 详见 [TEMPORARY_SHARE.md](TEMPORARY_SHARE.md)。
-
